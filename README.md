@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Audrey
 - 👀 I’m interested in Android development.
 - 🌱 I’m currently learning Kotlin.
-- 💞️ I’m looking to collaborate on ..., no I'm not...
+- 💞️ I’m looking to collaborate on ..., 
 - 📫 How to reach me ...
 
 <!---
